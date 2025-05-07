@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-permalink: /certificates/
-title: Certificates
+permalink: /tags/
+title: Tags
 type: tags
 ---
