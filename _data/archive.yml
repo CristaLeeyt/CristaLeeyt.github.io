@@ -1,6 +1,6 @@
 - type: tags
   title: Tags
   url: /tags/
-- type: tags
+- type: Certificates
   title: Certificates
-  url: /datas/
+  url: /Certificates/
