@@ -22,7 +22,7 @@ title: About
 
 | Year        | Institution                | Major                     | Degree    | GPA       |RANK   |
 |-------------|----------------------------|---------------------------|-----------|-----------|-------|
-| 2022.09 - 2023.03 | South China Agricultural University | Resource Development | Bachelor's |4.41/5.0|1/30|
+| 2022.09 - 2023.03 | South China Agricultural University | Chinese Medicinal Resources and Development | Bachelor's | 4.41/5.0 | 1/30 |
 
-| 2023.03 - Present | South China Agricultural University | Software Engineering   | Bachelor's |4.30/5.0| 10/254|
+| 2023.03 - Present | South China Agricultural University | Software Engineering   | Bachelor's | 4.30/5.0 | 10/254 |
 
