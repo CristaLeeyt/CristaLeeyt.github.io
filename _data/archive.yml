@@ -1,6 +1,6 @@
 - type: tags
   title: Tags
   url: /tags/
-- type: datas
-  title: Datas
-  url: /datas/
+- type: dates
+  title: Dates
+  url: /dates/
