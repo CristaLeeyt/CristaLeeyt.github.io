@@ -20,7 +20,7 @@ The study analyzes over 38,539 mutations across 90 human genes associated with 7
 ---
 ## [Paper Link](https://www.sciopen.com/article/10.26599/TST.2024.9010226)
 
-[Exploring Pathogenic Mutation in Allosteric Proteins: the Prediction and Beyond]
+![Exploring Pathogenic Mutation in Allosteric Proteins: the Prediction and Beyond](Exploring-Pathogenic.png)
 
 ---
 Thank you for your interest and support!
