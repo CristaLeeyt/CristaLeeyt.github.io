@@ -14,7 +14,7 @@ title: About
 
 [Download My Resume - Chinese.ver](/简历-ch.pdf)
 
-[Download My Resume - English.ver](/简历-ch.pdf)
+[Download My Resume - English.ver](/简历-en.pdf)
 
 ---
 
